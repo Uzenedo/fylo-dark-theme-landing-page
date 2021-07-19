@@ -450,6 +450,7 @@ footer{
     .social-icons i{
         font-size: 20px;
         padding-right: 30px;
+        margin-left: 30px;
     }
     .fa-github{
         justify-self: end;
@@ -462,6 +463,5 @@ footer{
     }
     .fa-facebook{
         justify-self: start;
-        padding-left: 30px;
     }
 }
