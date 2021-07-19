@@ -315,7 +315,7 @@ footer{
 .social-icons {
     grid-area: social-icons;
     display: grid;
-    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
 }
 
 .social-icons i{
@@ -450,8 +450,10 @@ footer{
     .social-icons i{
         font-size: 20px;
     }
-    .fa-facebook{
+    .fa-github{
         justify-self: end;
+    .fa-facebook{
+        justify-self: center;
     }
     .fa-twitter{
         justify-self: center;
