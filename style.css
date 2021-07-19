@@ -452,16 +452,5 @@ footer{
         padding-right: 30px;
         grid-template-column: 1fr 1fr 1fr 1fr;
     }
-    .fa-github{
-        justify-self: end;
-    }
-    .fa-facebook{
-        justify-self: center;
-    }
-    .fa-twitter{
-        justify-self: center;
-    }
-    .fa-instagram{
-        justify-self: start;
-    } 
+    
 }
