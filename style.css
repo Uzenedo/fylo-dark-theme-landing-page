@@ -450,16 +450,16 @@ footer{
     .social-icons i{
         font-size: 20px;
     }
-    .fa-github{
-        justify-self: end;
-    }
     .fa-facebook{
-        justify-self: center;
+        justify-self: start;
     }
     .fa-twitter{
         justify-self: center;
     }
     .fa-instagram{
-        justify-self: start;
+        justify-self: center;
+    }
+    .fa-github{
+        justify-self: end;
     }
 }
