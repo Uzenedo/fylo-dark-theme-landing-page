@@ -450,6 +450,7 @@ footer{
     .social-icons i{
         font-size: 20px;
         padding-right: 30px;
+        grid-template-column: 1fr 1fr 1fr 1fr;
     }
     .fa-github{
         justify-self: end;
