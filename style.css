@@ -451,7 +451,7 @@ footer{
         font-size: 20px;
     }
     .fa-facebook{
-        justify-self: start;
+        justify-self: end;
     }
     .fa-twitter{
         justify-self: center;
@@ -460,6 +460,6 @@ footer{
         justify-self: center;
     }
     .fa-github{
-        justify-self: end;
+        justify-self: start;
     }
 }
