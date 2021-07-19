@@ -36,7 +36,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Github](https://github.com/Uzenedo/fylo-dark-theme-landing-page)
-- Live Site URL: [Live Host]()
+- Live Site URL: [Live Host](https://uzenedo.github.io/fylo-dark-theme-landing-page/)
 
 ## My process
 
