@@ -454,14 +454,14 @@ footer{
     .fa-github{
         justify-self: end;
     }
-    .fa-facebook{
+    .fa-instagram{
         justify-self: center;
-        padding-right: 30px;
     }
     .fa-twitter{
         justify-self: center;
     }
-    .fa-instagram{
+    .fa-facebook{
         justify-self: start;
-    } 
+        padding-left: 30px;
+    }
 }
